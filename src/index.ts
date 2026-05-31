@@ -1,6 +1,6 @@
-import { Persona } from "./models/Persona";
-import { Profesor } from "./models/Profesor";
-import { Alumno } from "./models/Alumno";
+import { Persona } from "./models/Persona.js";
+import { Profesor } from "./models/Profesor.js";
+import { Alumno } from "./models/Alumno.js";
 
 const persona1 = new Persona(
     "Juan",
